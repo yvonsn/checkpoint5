@@ -27,7 +27,7 @@ En programación ocurre lo mismo: muchas veces necesitamos que el programa tome 
 
 ### 💻 Sintaxis básica
 
-![if](/documentos-markdown/images/if.png)
+![visual](/images/if.png)
 
 ### 💡 Ejemplo: Máquina de café
 
@@ -99,7 +99,7 @@ for variable in iterable:
     # código a repetir
 ```
 
-![For](/documentos-markdown/images/for.png)
+![For](/images/for.png)
 
 ### 💡 Ejemplos
 
@@ -169,7 +169,7 @@ Ejecuta un bloque de código repetidas veces, mientras la condición del bucle s
 
 ### 💻 Sintaxis
 
-![while](/documentos-markdown/images/while.png)
+![while](/images/while.png)
 
 ### 💡 Ejemplos
 
@@ -212,7 +212,7 @@ Es una funcionalidad que nos permite crear listas avanzadas de una forma compact
 
 ### 💻 Sintaxis
 
-![Comprension](/documentos-markdown/images/comprension.png)
+![Comprension](/images/comprension.png)
 
 ### 💡 Ejemplos
 
@@ -240,7 +240,7 @@ Es una forma corta de declarar funciones pequeñas y anónimas (no es necesario 
 
 ### 💻 Sintaxis
 
-![Lambda](/documentos-markdown/images/lambda.png)
+![Lambda](/images/lambda.png)
 
 ### 💡 Ejemplos
 
@@ -256,7 +256,7 @@ Resultado para ambos métodos: 441
 
 Son los valores que se pasan a una función para que trabaje con información específica.
 
-![Visualmente](/documentos-markdown/images/parametros.png)
+![Visualmente](/images/parametros.png)
 
 ### 💡 Ejemplos
 
